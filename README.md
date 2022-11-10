@@ -15,8 +15,8 @@
 
 👪 Comunities: Stack Overflow, Meta Exchange, Ask Ubuntu, SheSharp  
 ⚡ Fun fact: I started programming @ the age of 13  
-🌱 Studying: AWS serverless in nodejs  
-😄 Pronouns: She, Her
+🌱 Studying: Docker and multy docker projects
+😄 Pronouns: She/Her/Hers
 
 [My current projects kanban](https://github.com/users/TessavWalstijn/projects/1)
 
