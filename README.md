@@ -9,7 +9,7 @@
   </a>
   <a href="https://askubuntu.com/users/796646/tessavwalstijn">
     <img alt="Tessa's ask ubuntu stats" src="http://api.sqbl.me/se/?userId=796646&seSite=askubuntu">
-  </a><br
+  </a>
 </p>
 
 👪 Comunities: Stack Overflow, Meta Exchange, Ask Ubuntu, SheSharp  
