@@ -12,6 +12,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.codewars.com/users/TessavWalstijn">
+    <img alt="Tessa's codewars score" src="https://www.codewars.com/users/TessavWalstijn/badges/large">
+  </a>
+</p>
+
 👪 Comunities: Stack Overflow, Meta Exchange, Ask Ubuntu, SheSharp  
 ⚡ Fun fact: I started programming @ the age of 13  
 🌱 Studying: Docker and multy docker projects  
