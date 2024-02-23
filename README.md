@@ -20,7 +20,9 @@
 
 👪 Comunities: Stack Overflow, Meta Exchange, Ask Ubuntu, SheSharp  
 ⚡ Fun fact: I started programming @ the age of 13  
-🌱 Studying: Docker and multy docker projects  
+🌱 Studying: Differences in CJS and ESM with NPM packages  
+🎙️ Catch me live developing: [Twitch MsTess](https://www.twitch.tv/mstess)  
+💝 Support me: [GitHub](https://github.com/sponsors/TessavWalstijn) [Ko-fi](https://ko-fi.com/tess)  
 😄 Pronouns: She/Her/Hers
 
 [My current projects kanban](https://github.com/users/TessavWalstijn/projects/1)
