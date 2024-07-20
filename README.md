@@ -25,9 +25,9 @@
 💝 Support me: [GitHub](https://github.com/sponsors/TessavWalstijn) [Ko-fi](https://ko-fi.com/tess)  
 😄 Pronouns: She/Her/Hers
 
-> NOTE To view my kanbans you can login with the guest account:
-> username: guest
-> password: Guest123!@#
+> NOTE: To view my kanbans you can login with the guest account:  
+> username: guest  
+> password: Guest123!@#  
 
 [My current projects kanban](https://planka.tessavwalstijn.com/boards/1294322716798616583)  
 [My current blogs kanban  
