@@ -29,7 +29,7 @@
 > username: guest
 > password: Guest123!@#
 
-[My current projects kanban](https://planka.tessavwalstijn.com/boards/1294322716798616583)
+[My current projects kanban](https://planka.tessavwalstijn.com/boards/1294322716798616583)  
 [My current blogs kanban  
 *(PS: You can read my blogs from here as well)*](https://planka.tessavwalstijn.com/boards/1294322750915085321)
 
