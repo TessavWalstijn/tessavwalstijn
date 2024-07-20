@@ -34,13 +34,6 @@
 *(PS: You can read my blogs from here as well)*](https://planka.tessavwalstijn.com/boards/1294322750915085321)
 
 [//]: <> (
-[My current projects kanban](https://github.com/users/TessavWalstijn/projects/1)
-
-[My current blogs kanban  
-*(PS: You can read my blogs from here as well)*](https://github.com/users/TessavWalstijn/projects/5)
-)
-
-[//]: <> (
   <img alt="Tessa's github text" src="https://i.ibb.co/zXszQ4H/github-readme-v2.png" width="500px">
   <img alt="Tessa's github stats" src="https://github-readme-stats.vercel.app/api?username=tessavwalstijn&show_icons=true&count_private=true&hide=stars&title_color=f2f2f3&text_color=b4b8bc&icon_color=f2f2f3&bg_color=2d2d2d&hide_border=true"><br> 
 )
