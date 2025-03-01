@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/users/7185314/tessavwalstijn">
-    <img alt="Tessa's stackoverflow stats" src="http://api.sqbl.me/se/?userId=7185314&seSite=stackoverflow">
+    <img alt="Tessa's stackoverflow stats" src="https://api.sqbl.me/se/?userId=7185314&seSite=stackoverflow">
   </a>
   <a href="https://meta.stackexchange.com/users/388239/tessavwalstijn">
-    <img alt="Tessa's meta stats" src="http://api.sqbl.me/se/?userId=388239&seSite=meta">
+    <img alt="Tessa's meta stats" src="https://api.sqbl.me/se/?userId=388239&seSite=meta">
   </a>
   <a href="https://askubuntu.com/users/796646/tessavwalstijn">
-    <img alt="Tessa's ask ubuntu stats" src="http://api.sqbl.me/se/?userId=796646&seSite=askubuntu">
+    <img alt="Tessa's ask ubuntu stats" src="https://api.sqbl.me/se/?userId=796646&seSite=askubuntu">
   </a>
 </p>
 
